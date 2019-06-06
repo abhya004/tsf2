@@ -1,2 +1,2 @@
 # bookApi
-Internship project on rest Api
+Rest Api using Spring Boot and mySql. Tested using Postman.
